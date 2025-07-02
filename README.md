@@ -53,7 +53,7 @@ His explanations and step-by-step tutorials made learning `matplotlib` simple an
 ## 🛠️ Libraries Used
 
 - Matplotlib
-- Numpy
+- NumPy
 
 
 
