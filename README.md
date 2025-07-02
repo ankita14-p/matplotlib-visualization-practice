@@ -55,8 +55,5 @@ His explanations and step-by-step tutorials made learning `matplotlib` simple an
 - Matplotlib
 - Numpy
 
-You can install these libraries locally using:
 
-```bash
-pip install matplotlib numpy
 
